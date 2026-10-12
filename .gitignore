@@ -1,0 +1,8 @@
+interviews/
+/results.csv
+__pycache__/
+.env
+/interviewer_eval.csv
+pilot/
+.venv/
+venv/

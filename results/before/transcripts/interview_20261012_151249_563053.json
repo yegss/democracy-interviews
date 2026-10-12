@@ -1,0 +1,110 @@
+{
+  "backend": "openai",
+  "model": "qwen2.5:3b",
+  "started": "2026-10-12T15:12:49",
+  "ended": "2026-10-12T15:14:14",
+  "synthetic": true,
+  "persona": "populist",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hello, thanks for taking the time to speak with me. What does democracy mean to you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "To me, democracy means that the people are supposed to have a say in how things are run, not just the politicians and judges. It’s that the will of the majority should guide things and not be dictated by a few. Always feels like the people are left out sometimes though."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for explaining that. The idea that the people have a say in how things are run resonates. Can you think of a situation where you felt like the people weren’t being included enough?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, like in big decisions that affect our day-to-day lives. For instance, our pensions, our safety at work, or even our benefits. Sometimes it feels like those are decided by people with more power and influence, not based on what we actually need. It makes me feel like my opinion doesn’t really matter as much."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "I see. It seems like big decisions that impact daily lives, like pensions and safety at work, sometimes don’t feel fully reflective of what you need. Could you think of any specific situation where you felt your opinion didn’t matter as much as it should?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, like when they decide on safety rules at work. Sometimes it feels like they prioritize their own safety over ours. You’d think they’d listen more to what workers have to say about what’s actually dangerous, but they don’t always seem to."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like there’s a perception that safety rules might not fully reflect what workers actually need. Could you think of any time you felt like your specific concerns weren’t being considered when safety rules were decided?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, man, like when they talked about new safety protocols. I’d bring up things that felt really important, like needing more lighting in the darker areas or better emergency exits, and they’d roll their eyes. I guess they just wanted to get things done fast without too much input."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It seems like bringing up specific concerns might not have been fully heard. Could you think of any time you felt like your specific safety concerns were disregarded, even though they felt important to you?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, like the lighting issue. I kept bringing it up, but they kept saying they didn’t have time to change things. I felt like they just weren’t listening to what I had to say, you know?"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like your concerns about lighting weren’t fully considered. Could you think of any other time you felt like you weren’t being heard or your ideas weren’t considered when you brought them up?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Oh, yeah, like the need for more breaks. I suggested we have longer lunch times, but they said it was too expensive. I felt like they just didn’t see things my way, like I was just a drone worker who didn’t contribute enough."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like your suggestion for more frequent breaks was seen as too expensive and not valued. Could you think of any other situation where you felt like your input wasn’t valued or considered as much as others’?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, like when they change the machine settings without asking. I’d suggest something that works better, but they just ignore me. It feels like I’m the one who’s always doing the extra work to make things better. They don’t seem to value hearing me out."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like your suggestions for better machine settings were not taken into consideration. Could you think of any other instance where you felt your input was not valued or seemed to be disregarded?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, like when they decided on new work schedules and didn’t consult us at all. I could see where they were coming from, but it felt like I was left in the dark. It’s like they’re doing things without me, like I’m not really part of the team."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like your input on new work schedules was not considered. Could you think of any other time you felt like your input was not valued when making changes to the work environment?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, like when they decided to move the workstations around. I had a better setup I thought would make everyone more efficient, but they just went with what they wanted. I felt like they didn’t really think about how my input could have helped."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Your setup felt like it could make things more efficient. Could you think of any other time when you felt like your input on a work setup was not considered?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Man, like when they decided to change the seating arrangement. I had my desk in a better spot for working, but they kept pushing me to go with what they thought. I felt like they just didn’t want to hear what I had to say about where my space should be."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like your choice for a better seating arrangement was not considered. Could you think of any other time when your input on a work setting was not taken into account?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, like when they decided on who got to use the shared lab. I had a good idea for how we could use it better, but they just picked the usual suspects. I felt like my input didn’t matter at all in those decisions."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Your idea for better using the shared lab was not considered. Could you think of any other time you felt like your input wasn’t valued when making decisions about shared resources?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, like when they decided who had access to the printing machines. I had a suggestion for how we could better use it and spread it around, but they just kept things pretty much the same. I felt like they didn’t want to hear what I had to say about that either."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for sharing those insights. Your thoughts on how your ideas are not always considered have been very valuable."
+    }
+  ]
+}

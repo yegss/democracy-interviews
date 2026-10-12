@@ -1,0 +1,114 @@
+{
+  "backend": "openai",
+  "model": "qwen2.5:3b",
+  "started": "2026-10-12T16:47:49",
+  "ended": "2026-10-12T16:49:19",
+  "synthetic": true,
+  "persona": "order_first",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hi there, please share your thoughts on what democracy means to you personally?."
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, I've lived through some pretty tumultuous times where everyone seems to want to shake things up, but I tend to lean towards the idea of stability and order. Democracy often feels like it's in a constant state of debate, which can be a bit disorienting at times for someone who just wants things to be as they are."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Stability and order often seem important, especially in turbulent times. Could you give an example of what might feel disruptive to your sense of stability and order?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, things like sudden changes or instability in government, or too much debate without resolution can feel very disruptive. I like things to be predictable and work more or less the same way they've always been. Things changing too much or unpredictably can throw me off for sure."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Things changing unpredictably can be quite disruptive. Can you think of a specific time when something felt very unpredictable and disruptive to you?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, I remember during the big financial crisis. The markets weren’t stable; there were these big shifts and uncertainty in everything, and people were making decisions that seemed really uncertain and uncontrolled. That really threw me off a bit."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "During the financial crisis, things felt very unpredictable. Could you describe how the uncertainty affected you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, during the financial crisis, everything felt very uncertain. The markets were going up and down quickly, and people were making big decisions without much clarity. It made me feel a bit uneasy. I prefer things that have some stability and that people know what to expect. Those unpredictable swings just seemed to unsettle me a bit."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Uncertainty really did unsettle you during the financial crisis. Can you give me an example of a decision that seemed uncertain to you during that time?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "During the financial crisis, one thing that really felt uncertain was the decisions companies were making. There were a lot of layoffs, but nobody knew exactly how long things were going to be like. There was this big uncertainty about the future, and it was hard to plan. I felt like I didn’t have a clear idea of what to expect for the next month or the next year."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Uncertainty about future decisions definitely threw you off. Can you share a specific example of a situation where you were not sure what to expect next?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "During the financial crisis, there were days when I thought the markets might crash again, and I wasn’t sure when things would stabilize. It was hard to plan my finances because I didn’t know when the economy would improve or if it would improve at all. That kind of uncertainty definitely threw me off."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Uncertainty about the future certainly can be unsettling. Can you think of any plans or expectations that were affected by the uncertainty?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, during the financial crisis, I had to re-evaluate a lot of my plans and expectations. I tried to reduce my debts, but I didn’t know if that was the right move because the future was so uncertain. Planning for retirement felt different too, not knowing when I might have a steady income. So many things changed expectations and plans."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Your plans and expectations were disrupted by the uncertainty during the financial crisis. Can you explain how a specific plan was affected?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Oh, definitely. One plan that was affected was saving for retirement. I had to think about cutting back a bit because I wasn’t sure about job security or the market. If something changed, I’d need to be prepared, so I tried to reduce some debts and cut back on other things to make savings easier. It made planning more uncertain too."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Reducing debts and cutting back on spending became more uncertain with the financial crisis. Can you describe how this change in your plan for retirement affected you?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Absolutely. When the financial crisis hit, I knew I had to be more careful with my finances. So, I started cutting back on spending a bit. I figured if the economy was uncertain, I wouldn’t want to make big commitments like saving for retirement because I didn’t know if I would be able to stick to the plan. It made everything a bit more uncertain, and I felt like I needed to be cautious in my financial planning."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Being cautious in your financial planning made your retirement savings feel uncertain. Can you elaborate on how this made your financial goals less certain?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure. With the financial crisis, I had to be very careful with my money. I didn’t want to put too much into savings because I wasn’t sure the market would be stable or if I would be able to keep up with my retirement plan. So, my goal of having a certain amount saved for retirement became really uncertain. I had to be more flexible with my plans to make sure I wouldn’t run out of money. It made everything feel a bit more precarious."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Being careful with your money made your retirement savings feel more uncertain. Can you share more about how you adjusted your plans to be more flexible?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "You see, I started cutting back on some non-essential spending and tried to find ways to save a bit more from what I had. I also looked into more flexible investment options, maybe things that were a bit safer during the uncertain times. I wanted to keep some cushion in case things didn’t go as planned. It made my plans more flexible, but also made them feel a bit less certain too. But I knew I had to be prepared, so I tried my best to adjust."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Adjusting your plans to be more flexible made your retirement savings feel uncertain. Can you tell me more about the more flexible investment options you considered?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, I looked into some more conservative investment options like bonds and stable investment accounts. I heard they were a bit safer during uncertain times, so I tried to include more of those in my portfolio. I also looked into monthly investment plans, where I would invest a fixed amount every month rather than trying to save a lump sum. This way, if the market wasn’t as good for a while, I could still keep things going. It was more about finding ways to be a bit more resilient and less risky."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for sharing your thoughts with me. It's been informative."
+    },
+    {
+      "speaker": "respondent",
+      "text": "You're welcome! It was good talking with you. If you have any more questions or if there’s anything else I can share, feel free to ask."
+    }
+  ]
+}

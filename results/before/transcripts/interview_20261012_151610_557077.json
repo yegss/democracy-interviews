@@ -1,0 +1,110 @@
+{
+  "backend": "openai",
+  "model": "qwen2.5:3b",
+  "started": "2026-10-12T15:16:10",
+  "ended": "2026-10-12T15:17:31",
+  "synthetic": true,
+  "persona": "disengaged",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hello, thanks for taking the time to talk. What does democracy mean to you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Democracy to me is about everyone having a say in how things are run, kind of like when you and your friends decide what game to play."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for explaining. When it comes to you, how do you think democracy works best when it's functioning well? Do you have an example of something where you felt it worked well?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "When it works well, democracy is when laws and decisions are made through fair voting, like when a class votes on a field trip. I remember feeling good about it when our class voted and got to go see dinosaurs at the museum, that was a democracy in action."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "I see, voting and making decisions based on fair results was definitely a good example. Is there anything else you remember where you felt democracy wasn't working well?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, like when the teacher decided to cancel our recess without us all knowing ahead of time. It felt like our voices weren't heard, so that wasn't a good democracy."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "I understand. When democracy doesn't work, it feels like it's not true to its principles. Could you describe that situation in more detail?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Oh, yeah, like when kids argue over who gets to choose the theme for a birthday party and the teacher just makes the decision without us, it feels like our opinions aren't considered. That's not the fair way democracy should work."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "I see. When you feel like your opinions are not considered, it's clear that the democracy isn’t fair, right?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Right, it's supposed to be about everyone's ideas being heard, but if not, it feels like it's not being done the right way."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "I understand. When you feel that everyone's ideas aren't being heard, it really feels like something is wrong with the way the democracy is functioning. Can you think of any other instances where you felt democracy was working well or not well?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, another time was when we voted on class rules. Everyone talked about what they wanted and we ended up coming up with fair rules together. That felt really good. And think of when the teacher randomly picked who gets to clean the blackboard without asking anyone, that felt not so democratic."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "That's a great example of how democracy can work well when everyone can participate. And a clear example of when it feels like it’s not working. Can you explain a little more about how everyone could talk about what they wanted in your rules vote?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, we had a meeting and people shared what they thought would be nice for the class, like maybe having more break times. Then we all voted on the ideas that we all agreed on. It felt like our voices really mattered then."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "I understand. It sounds like everyone's voices were heard and considered. Is there anything else you can add about how that felt during your class vote?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "During that vote, it felt really good to have the chance to share ideas and see them actually be considered. Everyone worked together to come up with something we all thought would work. It made me feel like my ideas counted."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "That sounds like a very collaborative and effective way of discussing ideas. How does it feel to have your ideas counted and considered in that process?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "It felt pretty great! Like I mattered, and my opinion was taken into account. It made me want to be more involved and have more say in things."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It sounds like having your voice heard and your ideas considered made you feel more involved and valued. Can you think of any other situations where you felt you mattered or didn't?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, when our class picked the class pets, I suggested some fish for the tank and it got picked. It felt good to know I had a say and something was chosen based on my idea. And when we decided on the class rules, my suggestions were in there too. Those felt like I mattered."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Having your idea chosen because of something you suggested definitely made you feel like you mattered. Can you think of any other situation that made you feel the way you described?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, like when I asked to join a group project and we let me. It felt good to be part of the team and have a say in what we do. Those times made me feel quite valued and included."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Feeling included and valued when you get to be part of a group project definitely makes you feel like you have a role. Can you describe a situation where you felt more excluded or didn't have a say in something?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Gosh, there wasn't much like that. When things weren't decided by everyone, it felt like I was left out sometimes. But yeah, more like not being heard when there should have been a choice."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "It's good to hear about times you have felt included. It's important to feel heard and valued in group activities. Thank you for sharing your thoughts with me. It has been helpful."
+    }
+  ]
+}

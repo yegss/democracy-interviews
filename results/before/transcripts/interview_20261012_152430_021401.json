@@ -1,0 +1,110 @@
+{
+  "backend": "openai",
+  "model": "qwen2.5:3b",
+  "started": "2026-10-12T15:24:30",
+  "ended": "2026-10-12T15:26:04",
+  "synthetic": true,
+  "persona": "order_first",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hi there, feel free to share your thoughts on what democracy means to you personally."
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure thing. To me, democracy means keeping things steady and orderly, not too much debate or change. I think stability is very important for a society."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for explaining that. How would you describe the importance of stability in society?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Stability in society is like having a well-oiled machine. Everything runs smoothly, and there's less chaos and confusion. People know what to expect, and life is predictable and secure. That's important for people to feel comfortable and to make plans for the future."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You've described stability as a well-oiled machine, where everything runs smoothly and people know what to expect. Can you give me an example of something in society that feels predictably smooth to you?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, things like knowing when taxes are due, or when the mail usually comes. Or, planning a family function around a particular holiday where things tend to be the same year after year. Those are the kinds of things that give me a sense of stability and predictability."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mention things like knowing when taxes are due and family functions are planned around the same holidays. These seem to give you a steady sense of predictability. Can you share another example of something in your life that feels stable and well-predicted?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, getting ready for a vacation seems pretty stable for me. I know exactly what I need to do and when, and that helps me feel like everything is in order. It's not too chaotic, and I can plan ahead without too much worry."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned planning for a vacation as something that feels stable to you. What steps do you usually take to prepare for a vacation? Does anything else in preparation feel especially predictable to you?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "When I plan a vacation, I usually decide where I want to go, book flights and accommodations, and pack my bags. Knowing these steps are more or less the same every time helps me feel secure and in control during the planning process. Adding to my usual routines like checking the weather or remembering to buy travel insurance can also feel predictable."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You said you usually decide where you want to go, book flights and accommodations, and pack your bags when planning a vacation. These steps feeling predictable helps you feel secure and in control. Are there any other elements of vacation planning that you find also predictable?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, like checking the travel advisories for the destination to avoid any last-minute issues, or packing the usual things I need—clothes, toiletries, and travel documents. These are part of the routine that I find comforting and predictable."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned checking travel advisories and packing necessary items like clothes, toiletries, and travel documents as comforting and predictable parts of your vacation planning routine. Can you tell me more about how these elements feel particularly comforting and predictable to you?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, checking travel advisories gives me peace of mind that I won't run into any unexpected problems. I feel like I'm prepared for whatever might come up. And packing the usual items makes me feel less anxious about the trip. I have everything I need right there at home, which makes me feel secure and confident. Those are the sorts of things that bring a sense of comfort and predictability to my vacation planning."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned checking travel advisories to feel prepared for any unexpected issues and packing the usual items like clothes and toiletries to feel secure and confident. These elements bring a sense of comfort and predictability to your vacation planning. Can you explain how those elements specifically make you feel less anxious and more secure during the planning process?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "When I check the travel advisories, I know I've done my due diligence to be aware of any potential issues or changes. It helps me feel like I'm anticipating problems and being proactive, which reduces my stress levels. Packing the usual items like clothes, toiletries, and travel documents feels secure because I know I won't be scrambling to find things right before I leave. It’s like having a toolbox—everything I need is right there, ready to go. This predictability makes me feel more in control and less anxious about the trip details."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned checking travel advisories to feel proactive and less stressed, and packing usual items like clothes and toiletries to feel secure and less anxious. These elements help you feel more in control and less anxious about trip details. Can you share how these elements specifically make you feel like they have a protective function during your vacation planning?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, checking the travel advisories is like having a safety net. It lets me know if there are any issues or changes I need to be aware of, so I can plan accordingly. It feels like I'm doing everything I can to protect myself and my trip. And packing the usual items feels like having a buffer. I know I'm bringing everything I need, so万一 something goes wrong, I can still take care of myself and my needs. This predictability and having everything ready help me feel like I'm protected and less nervous about unexpected issues."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned checking travel advisories to feel proactive and less stressed, and packing usual items like clothes and toiletries to feel secure and less anxious. These elements help you feel like they are your safety net and buffer. Can you share how these specific elements make you feel more protected and less nervous about unexpected issues during your vacation planning?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, checking the travel advisories makes me feel like I'm thinking ahead and preparing for any possible issues. It gives me a sense of control and reduces my anxiety about the trip. And packing the usual items, like clothes and toiletries, feels like having a safety net. I know I have everything I need at home, so if there are any hiccups or last-minute changes, I'm still covered. This predictability helps me feel less nervous and more prepared for the unexpected."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned checking travel advisories to feel like you're thinking ahead and reducing your anxiety, and packing usual items like clothes and toiletries to feel like you have a safety net. These elements help you feel more protected and prepared for the unexpected. Can you share how having these ready-to-go items specifically makes you feel like you're less nervous and more prepared for the unexpected?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, packing the usual items like clothes and toiletries gives me a feeling of control. I don't have to worry about running out of something important, like missing a shirt or forgetting my toothbrush. It feels like having a buffer—everything is already packed and ready to go. Checking the travel advisories helps me feel like I'm thinking ahead, anticipating any issues, and being proactive. Together, these elements make me feel more prepared for any surprises that might come up during the trip. It’s like having everything laid out, just in case."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned packing usual items like clothes and toiletries to feel like you have a buffer and checking travel advisories to feel like you're thinking ahead and being proactive. These elements help you feel prepared for unexpected issues. Can you share how having everything ready-to-go specifically makes you feel more confident and ready for the unexpected during your vacation planning?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, having everything ready-to-go like packing clothes and toiletries makes me feel more confident. I know I won't be scrambling to find things on the day of the trip. It’s like having a checklist all packed and ready, so I just need to check it off and go. Checking the travel advisories makes me feel more proactive and ready. I'm thinking ahead and being aware of any potential issues, so I can plan for them. Together, these help me feel more prepared and less nervous about the trip."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for sharing your thoughts on how you prepare for vacations and how that makes you feel more prepared for unexpected issues. Your detailed explanation was very helpful. Thank you for participating in this interview."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "backend": "openai",
+  "model": "qwen2.5:3b",
+  "started": "2026-10-12T15:17:31",
+  "ended": "2026-10-12T15:19:02",
+  "synthetic": true,
+  "persona": "disengaged",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hello, could you start by explaining what democracy means to you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, to me democracy means people have a say in how they're governed and the government acts based on what the people want. It's more than just voting every few years, it's participating."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for that. So, people have a say in how they're governed and the government acts based on what the people want. Can you think of a specific situation where you felt democracy was working well, and what that situation was like?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, during the pandemic when everyone was at home, the government was quick to offer help and support, like extra unemployment benefits and free testing. Feeling like the government listened and acted to help people, that's when I thought democracy was working well."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "So, during the pandemic, you felt the government was working well because it listened to people and acted on their needs. Could you give me some more details about that situation?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, with the pandemic, there were lots of changes and it was hard for people. The government provided extra unemployment benefits so people could pay rent and bills. They also offered free testing and vaccines, which kept many people safe. Feeling like they were there for us, that's how I saw democracy working in that situation."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You felt the government provided extra unemployment benefits so people could pay rent and bills, and they offered free testing and vaccines to keep people safe. Those were seen as actions to help people during the pandemic. How did that make you feel about democracy and the government's role in times like this?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "It made me feel like democracy works when the government helps out. They actually provided what people needed, which is important. Feeling supported helps people know their voices matter. That's when I really believe in how democracy should work."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You felt the government actually provided what people needed, like unemployment benefits and free testing, making you believe that democracy works when the government helps people. How do you think democracy could be more effective in times of crisis if the government still acts in this way?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, if the government keeps doing things like giving benefits and offering vaccines, it shows they care. That might make people feel more secure and involved. It could also help people see that their voice does count and government is working for them."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "If the government continues to provide benefits and offer vaccines, it shows it cares and makes people feel secure and involved. That could make people see that their voice does count and the government is working for them. What specifically do you think needs to change for your country to no longer be considered a democracy?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, if the government starts ignoring people or not offering the help they need, that would be a sign things aren't a democracy anymore. They need to keep stepping in and helping their people, that's how I think democracy stays strong."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You think the government needs to keep stepping in to help their people to maintain a democracy. If the government starts ignoring people or not providing the help they need, it would be a sign things aren't a democracy anymore. How do you think the government could better step in and help people according to how you see democracy?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "I think the government needs to be more proactive, like keep offering the help like benefits and vaccines. They should also listen to people and address their concerns. If they do that, people will see they're there for them. That's how I think democracy should work."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You think the government needs to be more proactive, like keeping benefits and vaccines, and listen to people. If they do that, people will see they're there for them. What specific changes would you need to see in the government's approach for that to happen?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "The government needs to be more open and honest about what they're doing. They should provide more information about where their money goes and how they're helping. They also need to respond quicker to people's needs and maybe have more representatives or lines of communication to hear from folks directly. If they do that, people will feel more involved and supported."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You think the government needs to be more open and honest, providing more information about where their money goes and how they're helping. They should also respond quicker to people's needs and have more representatives or communication. If they do that, you'll feel more involved and supported. How do you think the government could make that happen?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Government could start by setting up more transparent ways to get information, like monthly reports or updates. They could also have more direct lines, like hotlines or online forums, where people can ask questions and give feedback. If they do these things, people will see they're listening and acting, which makes them feel more included."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You think the government could start by setting up monthly reports to be more transparent and have more direct lines like hotlines or online forums. If they do these things, people will see they're listening and acting, making them feel more included. What other changes do you think would help make sure the government is truly listening to and acting on the people's needs?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "I think the government could also do more surveys or focus groups to get direct feedback from different groups of people. They could involve more community representatives who can speak for people who might not have a voice. If they do these things, they'll get a better picture of what's really needed and how to best help everyone."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You think the government could do more surveys or focus groups to get direct feedback from different groups. Involving more community representatives who can speak for those who might not have a voice would help. If they do these things, they'll get a better understanding of what's needed and how to best help everyone. How do you think community representatives could be more effective in that process?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Community representatives could share the voices and needs of their communities clearly. They could help identify areas that need more support and work on solutions together. If they can do that, the government will have a clearer picture of what's going on and can make better decisions to help everyone."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You think community representatives could share the voices and needs of their communities clearly, and help identify areas that need more support and work on solutions together. That would help the government have a clearer picture and make better decisions. How do you think the government could work more effectively with community representatives to improve their roles?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "The government could give community representatives more resources and support, like training or better collaboration tools. They should also include representatives more in decision-making processes and involve them in setting goals and priorities. If they do that, the representatives will be more effective and the government will get better ideas and solutions."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for sharing those insights. It’s clear that involving and supporting community representatives is key to effective governance. Any final thoughts on how this could lead to a more inclusive democracy?"
+    }
+  ]
+}

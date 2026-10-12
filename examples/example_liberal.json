@@ -1,0 +1,33 @@
+{
+  "synthetic": true,
+  "persona": "example_liberal",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hello! What does democracy mean to you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "For me it means that my rights are protected, that there is free speech and a free press, and that courts are independent."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "If a popular government passes a law and the constitutional court strikes it down, who should have the final say?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "The court. A majority can be wrong, and the constitution protects minorities against that. That is the whole point of checks and balances."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Would you accept a strong leader who doesn't need parliament if problems got solved faster?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "No. Faster results are not worth losing the right to vote him out. Thank you."
+    }
+  ],
+  "model": "hand-written example",
+  "started": "",
+  "ended": ""
+}

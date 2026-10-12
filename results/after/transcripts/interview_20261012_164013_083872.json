@@ -1,0 +1,110 @@
+{
+  "backend": "openai",
+  "model": "qwen2.5:3b",
+  "started": "2026-10-12T16:40:13",
+  "ended": "2026-10-12T16:41:25",
+  "synthetic": true,
+  "persona": "disengaged",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hello, thank you for taking the time to speak with me. What does democracy mean to you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "To me, democracy means people having a say in how they're governed and that everyone plays by the same rules. Not too sure if that works, I don't know."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Does everyone in your community generally agree with the idea of having a say in how they're governed?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Yeah, in the community I'm from, people generally agree that everyone should have a say, but there are always different opinions. I don't know, that's how it is sometimes."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Could you give me an example of where different opinions exist in your community regarding having a say in governance?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sure, it could be different views on which issues the government should focus on or how laws should be made. I don't know, that's where the discussions usually start."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "And how do you see those discussions typically play out in your community's decision-making process?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, it's usually through public meetings and sometimes through social media where people voice their opinions. I don't know, that's the way it happens."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How often do you believe public opinion shapes political decisions in your community?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Pretty often, you know? People's opinions can make a big difference. I don't know, I guess it varies."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When you think about it, how do you imagine public opinion influences policymakers in your community?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Public opinion can push policymakers to consider different viewpoints and make changes to policies based on what people think is fair. I don't know, but that's how I imagine it working."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "And do you think the views of public opinion in your community are always accurately represented in the policies that are made?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Not always, I guess. Sometimes policymakers may overlook certain views for various reasons. I don't know, that's a tough question."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Why do you think public opinion might not always be accurately represented in the policies?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Policymakers might focus on more popular views or might just choose to ignore certain issues. I don't know, there are probably lots of reasons."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "And how do you think public opinion could be made more accurately represented in the policies?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Well, if more people talked about their opinions and joined public meetings, policymakers might consider more viewpoints. I don't know, it's just a thought."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "And what keeps you from believing in the accuracy of public opinion representation in the policies?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Sometimes people only express their biases or just stick to the status quo, so it's hard to know if everyone's views are being heard. I don't know, those are my thoughts."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "And do you think the way people communicate their views is a key factor in the accuracy of their representation in policies?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Absolutely, how people share their views can affect what ends up in policies. I don't know, that's where it all starts."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How do you think people like yourself who want to see their views more accurately represented can influence that change?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Maybe by getting more involved in community groups or public meetings to share our views. I don't know, that's one way to do it."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for your insights. It was helpful to hear your perspective."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+file,persona,rule_multiple_questions,rule_judgmental,interviewer_turns,llm_multiple_questions,llm_leading,llm_judgmental,llm_missed_followup,llm_restated
+interview_20261012_163023_154300.json,committed_liberal,1,1,12,0,0,0,1,0
+interview_20261012_163220_320944.json,committed_liberal,0,0,12,0,0,0,0,0
+interview_20261012_163344_556491.json,frustrated_pragmatist,2,2,12,1,0,1,1,0
+interview_20261012_163513_593182.json,frustrated_pragmatist,0,3,12,0,0,0,0,0
+interview_20261012_163639_535002.json,populist,2,1,12,2,0,0,0,0
+interview_20261012_163821_402047.json,populist,9,0,12,2,0,2,0,0
+interview_20261012_164013_083872.json,disengaged,0,0,12,0,0,0,0,0
+interview_20261012_164125_445504.json,disengaged,0,1,12,0,0,1,0,0
+interview_20261012_164248_478638.json,social_democrat,0,1,12,0,0,0,0,0
+interview_20261012_164419_827415.json,social_democrat,10,2,12,1,0,0,0,0
+interview_20261012_164614_359565.json,order_first,1,0,12,0,0,1,0,0
+interview_20261012_164749_621347.json,order_first,0,0,12,7,0,1,0,0

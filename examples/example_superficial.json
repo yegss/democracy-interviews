@@ -1,0 +1,33 @@
+{
+  "synthetic": true,
+  "persona": "example_superficial",
+  "transcript": [
+    {
+      "speaker": "interviewer",
+      "text": "Hello! What does democracy mean to you personally?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Democracy is good, of course. It's the best system."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "What do you mean when you say it's the best?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "I don't know, it's just better than the alternatives."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Would you accept a strong leader who doesn't need parliament if problems got solved faster?"
+    },
+    {
+      "speaker": "respondent",
+      "text": "Honestly yes, if he delivers results and gets things done. Parliament is just endless talking, we need order and stability."
+    }
+  ],
+  "model": "hand-written example",
+  "started": "",
+  "ended": ""
+}
